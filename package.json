@@ -14,12 +14,14 @@
 		"@cloudflare/vitest-pool-workers": "0.7.4",
 		"@cloudflare/workers-types": "4.20250224.0",
 		"@vitest/coverage-istanbul": "3.0.7",
+		"rollup-plugin-inject": "^3.0.2",
 		"typescript": "5.8.2",
 		"vitest": "3.0.7",
 		"wrangler": "3.111.0"
 	},
 	"dependencies": {
 		"@cloudflare/types": "6.29.1",
+		"@jridgewell/sourcemap-codec": "^1.5.0",
 		"cloudflare": "4.1.0"
 	}
 }
